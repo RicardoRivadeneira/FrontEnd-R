@@ -26,6 +26,31 @@ El proyecto se estructuró siguiendo los siguientes pasos:
 2. **Fuentes y Íconos**: Se importaron fuentes de Google y se utilizaron íconos de FontAwesome y Bootstrap Icons.
 3. **JavaScript y Plugins**: Se implementaron varios plugins JavaScript como Owl Carousel y Lightbox para funcionalidades específicas.
 
+## Acciones Realizadas
+
+1. **Integración de Bootstrap:** Se ha integrado Bootstrap en el proyecto mediante un CDN para aprovechar las funcionalidades y estilos proporcionados por este marco.
+
+2. **Diseño Mejorado con Clases de Bootstrap:**
+   - Se han utilizado clases de Bootstrap para mejorar el diseño de la página, incluyendo botones, barra de navegación, contenedores, entre otros.
+   - Se ha aplicado el sistema de rejilla de Bootstrap para lograr un diseño más flexible y adaptativo.
+
+3. **Responsividad:**
+   - Se ha asegurado de que la página se vea bien en diferentes tamaños de pantalla mediante el uso de clases de Bootstrap para diseño responsivo.
+   - Se han utilizado clases como `container`, `container-fluid`, `col`, y `img-fluid` para garantizar la adaptabilidad de los elementos.
+
+4. **Optimización del Estilo:**
+   - Se ha optimizado el uso de fuentes y estilos para mejorar la legibilidad y coherencia del diseño.
+
+5. **Uso de Componentes de Bootstrap:**
+   - Se han utilizado componentes de Bootstrap, como botones y barras de navegación, para facilitar la implementación y mejorar la coherencia del diseño.
+
+6. **Inclusión de Librerías Externas:**
+   - Se han incluido diversas librerías externas, como Font Awesome, Bootstrap Icons, y otras, para enriquecer el contenido visual de la página.
+
+7. **Implementación de Funcionalidades Adicionales:**
+   - Se ha implementado un spinner de carga para mejorar la experiencia del usuario mientras la página se carga.
+   - Se ha integrado un carousel de imágenes utilizando el componente de carrusel de Bootstrap.
+
 ## Autores
 
 *Ricardo Rivadeneira*, *Jose Imbaquinga*
