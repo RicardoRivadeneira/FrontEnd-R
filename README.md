@@ -47,10 +47,6 @@ El proyecto se estructuró siguiendo los siguientes pasos:
 6. **Inclusión de Librerías Externas:**
    - Se han incluido diversas librerías externas, como Font Awesome, Bootstrap Icons, y otras, para enriquecer el contenido visual de la página.
 
-7. **Implementación de Funcionalidades Adicionales:**
-   - Se ha implementado un spinner de carga para mejorar la experiencia del usuario mientras la página se carga.
-   - Se ha integrado un carousel de imágenes utilizando el componente de carrusel de Bootstrap.
-
 ## Autores
 
 *Ricardo Rivadeneira*, *Jose Imbaquinga*
